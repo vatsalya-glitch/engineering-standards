@@ -3,7 +3,7 @@
 
 > These standards are stack-agnostic and apply to any
 > data engineering project regardless of technology,
-> company, or scale. Built from 5+ years of production
+> company, or scale. Built from production
 > data engineering experience.
 
 ---
